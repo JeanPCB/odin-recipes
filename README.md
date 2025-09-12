@@ -1,12 +1,20 @@
-# odin-recipes
-A recipes website to train my HTML, Git and Github knowledge
+# Odin Recipes 🍳
+A recipes website to cook my coding skills in HTML, Git and Github
 
 ## About
-*This project is part of my web development learning with The Odin Project.*  
+*This project is part of my web development journey with [The Odin Project](https://www.theodinproject.com).*  
 
-Built **multiple recipes pages** linked with each others using **HTML basics**.  
+I created **multiple recipes pages** and linked them together using **HTML basics**, turning a simple idea into a small functional website.  
 
-Skills put in practice:  
-✅ **HTML5**  => *basic structure of a page, ordered/unordered lists, links and images*  
-✅ **Git**    => *starting version control from project beginning and keeping track of it*    
-✅ **Github** => *setting a new repository and pushing local changes to Github.*  
+## What I Learned / Skills Practiced  
+- **HTML5**  - Building page structure, adding ordered/unordered lists, links, images and more.  
+- **Git**    - Starting version control from scratch and keeping track of it as the project grew.    
+- **Github** - Creating a repository, pushing local changes and keeping project online.  
+
+## Features
+- Multiple recipes pages connected throug clickable links
+- Clear and structured layout for each recipe
+- Follow same "development pattern" through all project
+
+## Why This Project?
+This project helped me solidify the fundamentals of web development, get hands-on experience with Git and GitHub, and build something visually enjoyable... even if it’s just virtual cooking for now.
