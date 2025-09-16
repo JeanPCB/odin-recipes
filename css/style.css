@@ -1,6 +1,7 @@
 /* CSS reset */
 html {
    box-sizing: border-box;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 *,
@@ -11,3 +12,16 @@ html {
    box-sizing: inherit;
 }
 
+body {
+   background-color: rgba(248, 202, 143, 0.589);
+}
+
+.main-container {
+   width: 800px;
+   margin: 0 auto;
+   text-align: center;
+}
+
+#links-list {
+   list-style: none;
+}
