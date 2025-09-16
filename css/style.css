@@ -22,14 +22,27 @@ a {
    font-size: 18px;
 }
 
+ul, ol {
+   padding-left: 18px;
+}
+
 .main-container {
    width: 800px;
    margin: 30px auto;
+   margin-bottom: 60px;
    text-align: justify;
 }
 
 .text-center {
    text-align: center;
+}
+
+.main-container * {
+   margin: 10px 0;
+}
+
+.main-container h2 {
+   margin: 20px 0;
 }
 
 #links-list {
